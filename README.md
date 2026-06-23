@@ -25,4 +25,4 @@ Results:-
 - Customer churn predicted successfully
 
 Author:-
-Aarthi Ponmozhi
+Aarthi P
